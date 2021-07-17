@@ -1,13 +1,13 @@
 {
-    "name": "OpenDir/admin-font-pro",
-    "description": "Demo extension to load font awesome in admin",
+    "name": "opendir/awesome6",
+    "description": "Extension To Load FontAwesome",
     "keywords": [
         "flarum"
     ],
     "type": "flarum-extension",
     "license": "MIT",
     "require": {
-        "flarum/core": "^1.5"
+        "flarum/core": "^1.0"
     },
     "authors": [
         {
@@ -15,11 +15,13 @@
             "role": "Developer"
         }
     ],
-
+    "support": {
+        "issues": "https://github.com/OpenDirr/Font-Awesome/issues",
+        "source": "https://github.com/OpenDirr/Font-Awesome"
     },
     "extra": {
         "flarum-extension": {
-            "title": "Admin Font Awesome By Null",
+            "title": "FontAwesome-6",
             "category": "theme",
             "icon": {
                 "name": "fas fa-eye",
