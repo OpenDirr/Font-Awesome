@@ -4,7 +4,6 @@ namespace rameshdada\awesome;
 
 use Flarum\Extend;
 use Flarum\Frontend\Document;
-use Flarum\Extend\Frontend;
 
 return [
 
